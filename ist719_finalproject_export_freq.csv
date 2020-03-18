@@ -1,0 +1,33 @@
+INCOME,AGE,SEX,TARGET,FREQ
+above 200k,old,F,issues repaying,1175
+above 200k,old,F,repaid,1924
+above 200k,old,M,issues repaying,1044
+above 200k,old,M,repaid,1062
+above 200k,young,F,issues repaying,1700
+above 200k,young,F,repaid,1983
+above 200k,young,M,issues repaying,2355
+above 200k,young,M,repaid,2174
+below 115k per year,old,F,issues repaying,1580
+below 115k per year,old,F,repaid,2488
+below 115k per year,old,M,issues repaying,609
+below 115k per year,old,M,repaid,538
+below 115k per year,young,F,issues repaying,2612
+below 115k per year,young,F,repaid,2133
+below 115k per year,young,M,issues repaying,922
+below 115k per year,young,M,repaid,526
+between 115k & 150k,old,F,issues repaying,1489
+between 115k & 150k,old,F,repaid,2359
+between 115k & 150k,old,M,issues repaying,905
+between 115k & 150k,old,M,repaid,780
+between 115k & 150k,young,F,issues repaying,2856
+between 115k & 150k,young,F,repaid,2476
+between 115k & 150k,young,M,issues repaying,2146
+between 115k & 150k,young,M,repaid,1247
+between 150k & 200k,old,F,issues repaying,1005
+between 150k & 200k,old,F,repaid,1587
+between 150k & 200k,old,M,issues repaying,723
+between 150k & 200k,old,M,repaid,663
+between 150k & 200k,young,F,issues repaying,1753
+between 150k & 200k,young,F,repaid,1641
+between 150k & 200k,young,M,issues repaying,1951
+between 150k & 200k,young,M,repaid,1244
